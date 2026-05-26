@@ -1,0 +1,6 @@
+Para la resolucion de este ejercicio tambien se podria haber implementado una unica clase
+que defina el tipo de seguro, ya que no tienen ningun tipo de descuento o interaccion individual
+por lo que seguiria respetando la consigna.
+Dicho eso, a mi me parece mas eficiente y adecuado realizarlo de esta forma para respetar la modularidad
+y que sea algo actualizable a lo largo del tiempo, si en un futuro se me pide que ahora hayan descuentos
+individuales lo podria hacer con facilidad.
